@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "some.property",
+      "type": "java.lang.String",
+      "description": "Bug demo."
+    }
+  ]
+}
