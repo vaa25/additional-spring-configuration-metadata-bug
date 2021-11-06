@@ -1,0 +1,7 @@
+1. Go to https://github.com/vaa25/additional-spring-configuration-metadata-bug/blob/master/src/main/resources/application.properties[application.properties]
+2. Ctrl+Click on https://github.com/vaa25/additional-spring-configuration-metadata-bug/blob/master/src/main/resources/application.properties#L1[some.property]
+
+Expected: Focus jumps in https://github.com/vaa25/additional-spring-configuration-metadata-bug/blob/master/src/main/java/com/example/additionalspringconfigurationmetadatabug/Config.java#L9[Config.java line 9].
+
+Actual: Focus jumps in https://github.com/vaa25/additional-spring-configuration-metadata-bug/blob/master/src/main/resources/META-INF/additional-spring-configuration-metadata.json#L4[additional-spring-configuration-metadata.json line 4].
+
